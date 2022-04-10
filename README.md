@@ -16,6 +16,6 @@ OBJECTIFS
 
 • Ce projet utilise les structures, les allocations mémoire(malloc) ainsi que les pointeurs sur pointeurs.
 
-• Les fonctionnalités futurs : addition, produit scalaire, produits de matrices et bien sur la vérification de la concordance pour l'opérationcible.
+• Les fonctionnalités futures : addition, produit scalaire, produits de matrices et bien sur la vérification de la concordance pour l'opérationcible.
 
       
