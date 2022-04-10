@@ -12,7 +12,7 @@ PREREQUIS
 
 OBJECTIFS
 
-• Ce projet permet de d'implémenter les indices d'une matrices et de l'afficher par la suite.
+• Ce projet permet d'implémenter les indices d'une matrices et de l'afficher par la suite.
 
 • Ce projet utilise les structures, les allocations mémoire(malloc) ainsi que les pointeurs sur pointeurs.
 
