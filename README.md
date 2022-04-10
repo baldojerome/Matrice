@@ -1,4 +1,4 @@
-# Matrice
+# Matrice_langageC
 
 ![th](https://user-images.githubusercontent.com/99471537/162631002-2319e264-d8f8-4693-8777-80a6e9a403b8.jpg)
 
